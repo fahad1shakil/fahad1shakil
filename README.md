@@ -1,4 +1,4 @@
-👨‍💻 About Me
+
 Hey Hi! I’m Fahad Shakil, a developer who enjoys turning ideas into things people can actually use.
 Most of my work revolves around MERN stack development, but I also spend plenty of time in the DevOps world, tinkering with pipelines, cloud services, and deployment strategies.
 
