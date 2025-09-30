@@ -99,10 +99,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/fahad1shakil/fahad1shakil/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h4 align="left">Others Language : -</h4>
 
 ###
@@ -142,13 +138,5 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=fahad1shakil.fahad1shakil&"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fahad1shakil/fahad1shakil/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fahad1shakil/fahad1shakil/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/fahad1shakil/fahad1shakil/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
