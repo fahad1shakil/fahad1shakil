@@ -23,4 +23,5 @@ I don't just write code; I focus on the entire development lifecycle. From desig
 ---
 
 ### 📫 Connect with me
-[LinkedIn](https://www.linkedin.com/in/fahad1shakil/) | [Email](mailto:fahad1shakil@gmail.com)
+### 📫 Connect with me
+[LinkedIn](https://www.linkedin.com/in/fahad1shakil/) | 📧[Gmail] [fahad1shakil@gmail.com](mailto:fahad1shakil@gmail.com)
