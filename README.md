@@ -21,7 +21,5 @@ I don't just write code; I focus on the entire development lifecycle. From desig
 ⚡ **Currently seeking a Full Stack or Backend Engineering role to contribute to impactful projects and grow with a dynamic team.**
 
 ---
-
 ### 📫 Connect with me
-### 📫 Connect with me
-[LinkedIn](https://www.linkedin.com/in/fahad1shakil/) | 📧[Gmail] [fahad1shakil@gmail.com](mailto:fahad1shakil@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/fahad1shakil/) | 📧 [fahad1shakil@gmail.com](mailto:fahad1shakil@gmail.com)
